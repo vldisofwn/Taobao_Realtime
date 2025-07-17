@@ -1,0 +1,4 @@
+bin/kafka-topics.sh --create --topic taobao_data2 --bootstrap-server hadoop105:9092 --partitions 1 --replication-factor 1
+
+
+http://hadoop105:5000
